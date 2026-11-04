@@ -1,0 +1,7 @@
+const animals = [
+  {id:1,name:"Барсик",type:"cat",emoji:"🐱",photo:"https://i.pinimg.com/originals/c5/c5/8f/c5c58fe5476efebcfce211449ab9b252.jpg",age:"2 жас",sex:"Ұл",vaccinated:true,note:"Сүйкімді, адамға тез үйренеді.",story:"Барсикті көшеден тапты. Қазір сау, тыныш және құшақтасқанды жақсы көреді."},
+  {id:2,name:"Рекс",type:"dog",emoji:"🐕",photo:"https://avatars.mds.yandex.net/i?id=e7a0523e2dc72f183e6d66331b838479_l-4210399-images-thumbs&n=13",age:"3 жас",sex:"Ұл",vaccinated:true,note:"Белсенді, серуенді жақсы көреді.",story:"Рекс бұрын үйде тұрған. Қозғалысты жақсы көреді, сондықтан ауласы бар үй керек."},
+  {id:3,name:"Мурка",type:"cat",emoji:"🐈",photo:"https://avatars.mds.yandex.net/i?id=f3b4a51b08a0c504cb4c58f0d1d0b2b2_l-5233576-images-thumbs&n=13",age:"1 жас",sex:"Қыз",vaccinated:true,note:"Тыныш, балаларға жақсы.",story:"Мурка өте жұмсақ мінезді. Балалары бар отбасына өте жарасады."},
+  {id:5,name:"Снежок",type:"cat",emoji:"🐱",photo:"https://img.goodfon.ru/wallpaper/nbig/2/b3/belyi-kotionok-kotenok-vzgliad-malysh.webp",age:"4 жас",sex:"Ұл",vaccinated:false,note:"Ақ жүнді, байсалды мінезді.",story:"Снежок байсалды, жалғыз тұруды ұнатады. Егу жақында жасалады."},
+  {id:6,name:"Джек",type:"dog",emoji:"🦮",photo:"https://avatars.mds.yandex.net/i?id=f429750135364a52598ce277cfd7695c_l-5286781-images-thumbs&n=13",age:"5 жас",sex:"Ұл",vaccinated:true,note:"Ақылды, командаларды біледі.",story:"Джек негізгі командаларды біледі және серуенде өзін жақсы ұстайды."}
+];
